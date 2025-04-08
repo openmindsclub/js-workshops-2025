@@ -2,9 +2,9 @@
 
 ## 🔗 Slides
 
-[Javascript workshop 2025 slides](https://js-workshops-2025.vercel.app/slides.html)
+[Javascript workshop 2025 slides](https://nodejs-workshop-2025.vercel.app/js.html)
 
-[NodeJs workshop 2025 slides](https://nodejs-workshop-2025.vercel.app/)
+[NodeJs workshop 2025 slides](https://nodejs-workshop-2025.vercel.app/nodejs.html)
 
 
 ## 🎮 Mini Game Project
